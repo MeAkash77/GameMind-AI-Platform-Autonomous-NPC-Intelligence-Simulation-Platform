@@ -16,7 +16,7 @@
 
 [Website](https://yuan-manx.github.io/SparkLabs/) · [SparkLabs](https://yuan-manx.github.io/SparkLabs/editor.html) · [Quickstart](#quick-start) · [Key Features](#key-features) · [Docs](#documentation) · [Contributing](#contributing)
 
-#### [English](./README.md) | [中文文档](./README_CN.md)
+#### [English](./README.md) |
 
 </div>
 
