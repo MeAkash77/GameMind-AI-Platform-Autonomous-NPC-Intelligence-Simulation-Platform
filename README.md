@@ -3,7 +3,7 @@
 <img src="./assets/SparkLabs-Logo.png" alt="SparkLabs Logo">
 
 
-# Spark Labs
+# GameMind
 
 ### The First AI-Native Game Engine. 💥 
 ### Ignite Your Infinite Play! 🎮
@@ -106,7 +106,7 @@ The engine features an AI Agent foundation that provides a comprehensive multi-a
 
 ```bash
 # Clone the repository
-git clone https://github.com/Yuan-ManX/SparkLabs.git
+git clone https://github.com/MeAkash77/GameMind-AI-Platform-Autonomous-NPC-Intelligence-Simulation-Platform.git
 cd SparkLabs
 
 # Create build directory
@@ -164,7 +164,7 @@ python -m uvicorn backend.app:app --host 0.0.0.0 --port 8091 --reload
 ### AI Game Engine
 
 ```cpp
-#include <SparkLabs.h>
+#include <GameMind.h>
 
 using namespace SparkLabs;
 
@@ -360,9 +360,3 @@ SparkLabs Engine is licensed under the MIT License. See [LICENSE](./LICENSE) for
 ## ⭐ Star History
 
 If you like this project, please ⭐ star the repo. Your support helps us grow!
-
-<p align="center">
-  <a href="https://star-history.com/#Yuan-ManX/SparkLabs&Date">
-    <img src="https://api.star-history.com/svg?repos=Yuan-ManX/SparkLabs&type=Date" />
-  </a>
-</p>
